@@ -7,8 +7,8 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = 'Add_Bot_Token'
-const id = 'Add_Chat_Id'
+const token = '8438334801:AAErnjqy_xOLJxiEQ0lK06N4G9e9W1vNhGg'
+const id = '7459756974'
 const address = 'https://www.youtube.com'
 
 const app = express();
